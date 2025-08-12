@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Models (do not commit GGUF weights)
+models/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

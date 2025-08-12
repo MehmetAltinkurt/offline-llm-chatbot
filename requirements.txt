@@ -1,0 +1,3 @@
+streamlit>=1.36
+llama-cpp-python>=0.2.90
+pydantic>=2
